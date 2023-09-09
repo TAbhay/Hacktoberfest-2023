@@ -1,4 +1,5 @@
-#  💛🎯   HacktoberFest 2023  💛🎯 
+#  💛🎯   HacktoberFest 2023  💛🎯
+#### CELEBRATING 10TH YEAR OF OPEN SOURCE!
 # Make your first Pull Request and earn a free T-shirt 👕👕 from GitHub!
 #### All valid PRs will be merged or suitable tags like hacktober-accepted will be given 
 #### Star & fork this Repo first 
