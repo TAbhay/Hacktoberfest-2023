@@ -30,7 +30,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Clone your fork down to your local machine
 
 ```markdown
-https://github.com/ossamamehmood/Hacktoberfest2023.git
+git clone https://github.com/TAbhay/Hacktoberfest-2023.git
 ```
 
 * Create a branch
