@@ -9,4 +9,9 @@
 #### GitHub: [Jayesh Jain](https://github.com/Jayesh-JainX)
 
 -------------------------------------------------------------------------------------
+## Name: Tushar Singh Kanwar
+#### Bio: Code ^-^
+#### GitHub: [Tushar Singh](https://github.com/TSK28)
+
+-------------------------------------------------------------------------------------
 # Next Entry
