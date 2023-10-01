@@ -6,3 +6,4 @@
 | Aditya Jaiswal     |    [Aditya Jaiswal](https://github.com/adityajaiswal094)    | Swimming, Video Gaming |                  Mobile Developer |
 | Vedant Srivastava  | [Vedantsrivastava42](https://github.com/vedantsrivastava42) |   Coding , photography |              Full Stack Developer |
 | Tushar Singh Kanwar| [TSK28](https://github.com/TSK28)                           |   Coding , photography |              Developer, Player    |
+| Salim Oyinlola | [salimcodes](https://github.com/salimcodes)                           |   Football, Basketball and Formula one |             Software Engineer [ML/AI], Technical Writer    |
