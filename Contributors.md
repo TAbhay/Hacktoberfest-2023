@@ -14,4 +14,8 @@
 #### GitHub: [Tushar Singh](https://github.com/TSK28)
 
 -------------------------------------------------------------------------------------
+## Name: Prashant Shekhar Dubey
+#### Bio: Code ^-^
+#### GitHub: [pd-palladium](https://github.com/pd-palladium)
+-------------------------------------------------------------------------------------
 # Next Entry
